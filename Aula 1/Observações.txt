@@ -1,0 +1,2 @@
+Objetivo é ensinar python para análise de dados (não como programador)
+R vs. Python (é uma linguagem de programação)
